@@ -1,4 +1,20 @@
-# 👋 Hi, I'm Harshal Shinde
+<h1 align="center">
+  👋 Hi, I'm Harshal Shinde
+</h1>
+
+<h2 align="center">
+  🚀 Aspiring AI/ML Engineer
+</h2>
+
+<p align="center">
+  Python • Machine Learning • Data Analysis • Java • C++ • DSA • DevOps
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Python+Developer;Machine+Learning+Enthusiast;Data+Analysis+%7C+DSA;Learning+%7C+Building+%7C+Growing" />
+</p>
+
+---# 👋 Hi, I'm Harshal Shinde
 
 ### 🚀 Aspiring AI/ML Engineer | Python Developer | Data Enthusiast
 
