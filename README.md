@@ -178,3 +178,8 @@ I believe consistent learning and building real projects are the best ways to gr
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshal-4009/harshal-4009/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshal-4009/harshal-4009/output/github-contribution-grid-snake.svg" />
+</p>
