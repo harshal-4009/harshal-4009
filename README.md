@@ -123,6 +123,13 @@ Exploring real-world datasets using Python.
 **Tech:** Python • Pandas • NumPy • Matplotlib • EDA
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshal-4009/harshal-4009/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ## 📚 Currently Learning
 
